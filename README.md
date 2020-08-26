@@ -1,3 +1,10 @@
+# Resume Points
+# Predicting House Prices with Regression using TensorFlow					   		   Aug‘20 
+## Project Objective
+- Implemented a deep learning model, train and evaluate Neural Network with TensorFlow and keras to predict house price using regression analysis
+- Trained the model for 2000 epochs and got 0.18 MSE loss for training set and 0.15 MSE loss for validation set
+
+
 # Predicting House Prices with Regression using TensorFlow
 
 ## Project Objectives
